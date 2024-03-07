@@ -1,1 +1,2 @@
 # RescueWing
+Drones are currently being utilized in civilian  applications and military uses in an extensive  manner. During natural calamities like  earthquakes and floods, the Drones with the  capability to automatically detect objects based  on artificial intelligence can help rescue teams  by automatically generating an alarm, thereby  dropping payloads like food, clothes and rescue  tools near the human being detected
